@@ -1,5 +1,5 @@
 # Hello There
-I'm a third-year university student with a diverse skill set and a strong passion for technology. My interest in data analytics has led me to explore machine learning and deep learning, and I'm always eager to take on new challenges in this domain.
+I'm a final year university student with a diverse skill set and a strong passion for technology. My interest in data analytics has led me to explore machine learning and deep learning, and I'm always eager to take on new challenges in this domain.
 
 I've worked on front-end development, creating user-friendly interfaces that enhance the user experience and IoT projects, bridging the gap between the physical and digital realms. 
 
